@@ -1,0 +1,16 @@
+{
+  "v": 1,
+  "seq": 1,
+  "generated": "2026-11-28T14:28:20Z",
+  "files": [
+    {
+      "kind": "base",
+      "from": 0,
+      "to": 1,
+      "name": "signatures-base-1.sigbin",
+      "sha256": "0c28781ceb98dc84c75d5f13ca8676d53e4e68b80d9d1fead55ccb60eae18a03",
+      "count": 1175017,
+      "size": 37600556
+    }
+  ]
+}
